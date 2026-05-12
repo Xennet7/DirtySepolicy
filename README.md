@@ -1,4 +1,4 @@
-# Dirty Sepolicy: Check Android SELinux access
+# Dirty Sepolicy: Check Android SELinux access...
 
 This project discloses a method to detect the Android device sepolicy. 
 It can accurately identify all userspace su solutions, and it is impossible to bypass.
